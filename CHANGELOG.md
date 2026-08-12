@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
+- Added a deterministic Python fixture for the hosted Standard-profile pilot.
 - Added the advisory `Profile policy / Required controls` aggregate, its
   execution-plan resolver, required-control evaluator, and bounded reusable
   workflow boundaries. Existing direct baseline workflow execution and branch
